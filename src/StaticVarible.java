@@ -1,5 +1,6 @@
 public class StaticVarible {
-    static  String  Name = "ishan";
+   static final   String  Name = "ishan";
+
     static   int Age = 23;
     static  String Address = " aruna" +
             "yahalabedda, haputhale";
